@@ -1,10 +1,14 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12&height=300&section=header&text=Hello%20I'm%20Lapzy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=60&animation=twinkling" alt="header">
-</div>
+<div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
+  <h1 style="color: white;">Welcome to LapZone! 👋</h1>
+  </div>
+  
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6A98F0&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Student+Programmer" alt="Typing SVG" />
 </div>
+
+<br>
 
 <p align="center">
   <a href="mailto:lapzonecontact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -14,7 +18,7 @@
 
 ## 👨‍🎓 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 I'm a student developer passionate about creating digital experiences that are both functional and beautiful. Currently diving deep into full-stack development while honing my design skills.
 
@@ -98,6 +102,8 @@ I'm a student developer passionate about creating digital experiences that are b
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lapzy7&label=Profile%20Views&color=6A98F0&style=flat" alt="Profile Views">
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
