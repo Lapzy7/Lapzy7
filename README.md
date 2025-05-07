@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Learning & Creating</h1>
-  <h3>Student Developer & Designer</h3>
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12&height=300&section=header&text=Hello%20I'm%20Lapzy&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=60&animation=twinkling" alt="header">
 </div>
 
 <div align="center">
