@@ -1,7 +1,11 @@
 <div align="center">
 <img src="header.svg" alt="Welcome to LapZone!" width=800>
 </div>
-  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lapzy7&label=Profile%20Views&color=5865F2&style=flat" alt="Profile Views">
+</div>
+
 <br>
 
 <div align="center">
@@ -72,18 +76,26 @@ I'm a student developer passionate about creating digital experiences that are b
 
 ## 📊 My GitHub Journey
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lapzy7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" alt="GitHub Stats">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lapzy7&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="170" alt="Top Languages">
 </div>
 
+<br>
+
 ## 🚀 My Projects
+
+<br>
 
 <div align="center">
   <a href="https://github.com/Lapzy7/Back-End-Web-Development">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lapzy7&repo=Back-End-Web-Development&theme=tokyonight&hide_border=true" alt="Project 1">
   </a>
 </div>
+
+<br>
 
 ## 📫 Let's Connect!
 
@@ -99,16 +111,8 @@ I'm a student developer passionate about creating digital experiences that are b
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lapzy7&label=Profile%20Views&color=6A98F0&style=flat" alt="Profile Views">
-</div>
-
 <br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&fontSize=90" alt="Footer">
 </div>
