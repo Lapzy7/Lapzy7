@@ -1,6 +1,6 @@
-<div align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
-  <h1 style="color: white;">Welcome to LapZone! 👋</h1>
-  </div>
+<div align="center">
+<img src="header.svg" alt="Welcome to LapZone!" width=800>
+</div>
   
 <br>
 
