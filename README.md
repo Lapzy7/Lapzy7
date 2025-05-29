@@ -88,7 +88,7 @@ I'm a student developer passionate about creating digital experiences that are b
 <br>
 
 <div align="center">
-  <a href="https://github.com/Lapzy7/Back-End-Web-Development">
+  <a href="https://github.com/Lapzy7/Sisters-Mobile">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Lapzy7&repo=Back-End-Web-Development&theme=tokyonight&hide_border=true" alt="Project 1">
   </a>
 </div>
