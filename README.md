@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=Fullstack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=5000&color=5865F2&center=true&vCenter=true&width=500&lines=Fullstack+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
